@@ -1,0 +1,4 @@
+npx create-react-app react-ollama-client
+cd react-ollama-client
+npm install axios
+npm run dev

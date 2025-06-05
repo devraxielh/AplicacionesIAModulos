@@ -1,0 +1,34 @@
+{
+  "lugares_historicos": {
+    "Ciudad Amurallada": {
+      "descripcion": "Centro histórico de Cartagena, declarado Patrimonio de la Humanidad por la UNESCO",
+      "horario": "24/7",
+      "costo": "Acceso gratuito",
+      "atracciones": ["Calles coloniales", "Plazas históricas", "Arquitectura española"]
+    },
+    "Castillo San Felipe": {
+      "descripcion": "Fortaleza militar española más grande de América",
+      "horario": "8:00 AM - 6:00 PM",
+      "costo": "25,000 COP aprox.",
+      "tips": "Llevar agua y protector solar"
+    }
+  },
+  "playas": {
+    "Playa Bocagrande": {
+      "descripcion": "Principal zona turística moderna",
+      "actividades": ["Deportes acuáticos", "Bronceado", "Restaurantes"]
+    },
+    "Islas del Rosario": {
+      "descripcion": "Archipiélago con aguas cristalinas",
+      "actividades": ["Snorkel", "Buceo", "Tours en bote"],
+      "tips": "Reservar tour con anticipación"
+    }
+  },
+  "gastronomia": {
+    "platos_tipicos": ["Pargo rojo", "Cazuela de mariscos", "Arepa de huevo"],
+    "restaurantes_recomendados": {
+      "La Vitrola": "Cocina caribeña de alta cocina",
+      "La Cevicheria": "Mariscos frescos"
+    }
+  }
+}
